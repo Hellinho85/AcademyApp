@@ -1,0 +1,6 @@
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\bin\Debug\Models.dll
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\bin\Debug\Models.pdb
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\obj\Debug\Models.dll
+C:\Users\Gjorgji.Kongulovski\source\repos\AcademyM\Models\obj\Debug\Models.pdb
